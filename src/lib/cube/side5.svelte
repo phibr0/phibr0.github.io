@@ -3,7 +3,7 @@
 
 <main>
   <h1>Hello! I'm <span class="tag">phibr0</span></h1>
-  <p>A young Developer and Student from Germany.</p>
+  <p>A Student and Developer from Germany.</p>
 </main>
 
 <style>
